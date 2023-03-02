@@ -1,3 +1,5 @@
+# Docker container for Samba
+
 This is my first docker image. Following the tutorial of MadhuKraft on youtube.
 Credits to him. I just followed the tutorial and made it available to the public as a docker hub image.
 
